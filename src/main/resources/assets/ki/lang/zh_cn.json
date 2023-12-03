@@ -1,0 +1,9 @@
+{
+  "key.category.ki.kl": "Killaura",
+  "key.ki.killaura": "杀戮光环",
+  "key.ki.killaura_config": "杀戮光环 设置",
+  "gui.ki.killaura_config_enabled": "在服务器上启用",
+  "gui.ki.killaura_config_reach": "距离",
+  "gui.ki.killaura_config_swing_hand": "是否摇动手臂",
+  "chat.ki.in_server_warning": "杀戮光环已在服务器上禁用，请按 {key} 打开设置界面进行配置。"
+}

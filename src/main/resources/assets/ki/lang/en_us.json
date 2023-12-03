@@ -1,0 +1,9 @@
+{
+  "key.category.ki.kl": "Killaura",
+  "key.ki.killaura": "Killaura",
+  "key.ki.killaura_config": "Killaura Setting",
+  "gui.ki.killaura_config_enabled": "Enabled in server",
+  "gui.ki.killaura_config_reach": "Reach",
+  "gui.ki.killaura_config_swing_hand": "Swing hand",
+  "chat.ki.in_server_warning": "Killaura has been disabled on the server. Press {key} to open the Settings screen for configuration."
+}
